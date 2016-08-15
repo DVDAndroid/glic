@@ -51,6 +51,8 @@ import com.dvd.android.googlelaunchersicons.list.ItemClickListener;
 import com.dvd.android.googlelaunchersicons.model.App;
 import com.dvd.android.googlelaunchersicons.utils.RootCallback;
 import com.dvd.android.googlelaunchersicons.utils.Utils;
+import com.github.javiersantos.appupdater.AppUpdater;
+import com.github.javiersantos.appupdater.enums.UpdateFrom;
 import com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView;
 
 import java.util.ArrayList;
@@ -98,6 +100,11 @@ public class MainActivity extends AppCompatActivity implements RootCallback {
 
         assert getSupportActionBar() != null;
         getSupportActionBar().setTitle("GLIC");
+
+        new AppUpdater(this)
+                .setUpdateFrom(UpdateFrom.XML)
+                .setUpdateXML(Utils.XML_UPDATE_CHECK)
+                .start();
 
         mProgress = ProgressDialog.show(this, null, getString(R.string.loading), true, false);
         mIconsPacks = IconPackManager.getAvailableIconPacks(this);

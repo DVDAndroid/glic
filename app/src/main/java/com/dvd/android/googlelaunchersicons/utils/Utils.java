@@ -50,12 +50,10 @@ public class Utils {
     public static final String NEXUS_LAUNCHER_PKG_NAME = "com.google.android.apps.nexuslauncher";
     public static final String GOOGLE_LAUNCHER_PKG_NAME = "com.google.android.launcher";
     public static final String GOOGLE_APP_PKG_NAME = "com.google.android.googlequicksearchbox";
-
+    public static final String XML_UPDATE_CHECK = "https://raw.githubusercontent.com/DVDAndroid/glic/master/app/app_update.xml";
     private static final File NEXUS_LAUNCHER_DB_PATH = new File("/data/data/com.google.android.apps.nexuslauncher/databases/app_icons.db");
     private static final File GOOGLE_LAUNCHER_DB_PATH = new File("/data/data/com.google.android.googlequicksearchbox/databases/app_icons.db");
-
     private static final File DATABASE_FOLDER = new File("/data/data/com.dvd.android.googlelaunchersicons/databases/");
-
     public static File THIS_DB_PATH;
     public static File mDatabasePath;
     public static String DATABASE_NAME;

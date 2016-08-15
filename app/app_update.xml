@@ -1,0 +1,9 @@
+<AppUpdater>
+    <update>
+        <latestVersion>1.2</latestVersion>
+        <url>https://github.com/dvdandroid/glic</url>
+        <releaseNotes>
+            - Added update checker
+        </releaseNotes>
+    </update>
+</AppUpdater>
