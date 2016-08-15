@@ -25,8 +25,8 @@ Launcher will restart
 
 ## Screenshots
 
-<img src="https://github.com/DVDAndroid/glic/blob/master/art/screen_1.png" width="480" height="720"/>
+<img src="https://github.com/DVDAndroid/glic/blob/master/art/screen_1.png"/>
 
-<img src="https://github.com/DVDAndroid/glic/blob/master/art/screen_2.png" width="480" height="720"/>
+<img src="https://github.com/DVDAndroid/glic/blob/master/art/screen_2.png"/>
 
-<img src="https://github.com/DVDAndroid/glic/blob/master/art/screen_3.png" width="480" height="720"/>
+<img src="https://github.com/DVDAndroid/glic/blob/master/art/screen_3.png"/>
