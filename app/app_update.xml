@@ -1,7 +1,7 @@
 <AppUpdater>
     <update>
         <latestVersion>1.2</latestVersion>
-        <url>https://github.com/dvdandroid/glic</url>
+        <url>http://forum.xda-developers.com/devdb/project/dl/?id=19831&;task=get</url>
         <releaseNotes>
             - Added update checker
         </releaseNotes>
