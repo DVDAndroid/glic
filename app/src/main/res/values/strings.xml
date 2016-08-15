@@ -41,5 +41,7 @@
     <string name="settings">Settings</string>
     <string name="always_ask">Always ask</string>
     <string name="selected_icon">Selected icon</string>
+    <string name="app_info">App info</string>
+    <string name="app_info_">App made by <a href="http://forum.xda-developers.com/member.php?u=5345056">dvdandroid</a>\n\nSource code is available on <a href="https://github.com/dvdandroid/glic">Github</a></string>
 
 </resources>

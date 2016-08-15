@@ -15,6 +15,7 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.text.method.LinkMovementMethod;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -218,6 +219,19 @@ public class MainActivity extends AppCompatActivity implements RootCallback {
                 return true;
             case R.id.settings:
                 startActivity(new Intent(this, SettingsActivity.class));
+                return true;
+            case R.id.app_info:
+                AlertDialog d = new AlertDialog.Builder(this)
+                        .setTitle(R.string.app_info)
+                        .setMessage(R.string.app_info_)
+                        .setCancelable(false)
+                        .setPositiveButton(android.R.string.ok, null)
+                        .create();
+
+                d.show();
+
+                //noinspection ConstantConditions
+                ((TextView) d.findViewById(android.R.id.message)).setMovementMethod(LinkMovementMethod.getInstance());
                 return true;
         }
 
