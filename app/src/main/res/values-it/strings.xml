@@ -16,7 +16,6 @@
   -->
 
 <resources>
-    <string name="app_name">Google Launchers Icon Changer</string>
     <string name="always_ask">Chiedi sempre</string>
     <string name="app_details">Dettagli dell\'app</string>
     <string name="app_info">Info app</string>

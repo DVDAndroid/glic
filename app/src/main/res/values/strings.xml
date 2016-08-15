@@ -16,7 +16,7 @@
 
 <resources>
 
-    <string name="app_name">Google Launchers Icon Changer</string>
+    <string name="app_name" translatable="false">Google Launchers Icon Changer</string>
     <string name="loading">Loading…</string>
     <string name="launcher_not_installed">No compatible launchers installed!</string>
     <string name="no_icons_pack">No compatible icons pack installed!</string>

@@ -23,7 +23,7 @@
         <item>@string/google_launcher</item>
     </string-array>
 
-    <string-array name="pref_launcher_values">
+    <string-array name="pref_launcher_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
