@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_launcher">
+        <item>@string/always_ask</item>
+        <item>@string/nexus_launcher</item>
+        <item>@string/google_launcher</item>
+    </string-array>
+
+    <string-array name="pref_launcher_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>

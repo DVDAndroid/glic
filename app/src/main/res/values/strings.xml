@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">Google Launchers Icon Changer</string>
+    <string name="loading">Loading…</string>
+    <string name="launcher_not_installed">No compatible launchers installed!</string>
+    <string name="no_icons_pack">No compatible icons pack installed!</string>
+    <string name="label">Label</string>
+    <string name="package_name">Package name</string>
+    <string name="version">Version</string>
+    <string name="last_updated">Last updated</string>
+    <string name="components_names">Launch component</string>
+    <string name="launcher_icon">Launcher\'s icon</string>
+    <string name="original_icon">Original icon</string>
+    <string name="warning">Warning</string>
+    <string name="changes_made">Save your changes?</string>
+    <string name="changes_saved">Changes saved</string>
+    <string name="pick_icon">Pick icon…</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="suggested_icons">Suggested icons</string>
+    <string name="icons_packs">Icon packs</string>
+    <string name="app_details">App\'s details</string>
+    <string name="loading_">Loading… %1$d/%2$d</string>
+    <string name="loading__">Loading… %1$s</string>
+    <string name="saving_changes">Saving changes…</string>
+    <string name="manage_app">Manage app</string>
+    <string name="fast_picking">Fast icon-picking</string>
+    <string name="select_icon_pack">Select icon pack</string>
+    <string name="result">Result</string>
+    <string name="result_">%1$d icons changed\n\n%2$d icons not changed</string>
+    <string name="no_icon_pack_selected">No icon pack selected!</string>
+    <string name="selected_icon_pack">Selected icon pack: %1$s</string>
+    <string name="apps_not_found">No apps installed!</string>
+    <string name="app_not_found">%1$s not installed!</string>
+    <string name="choose_launcher">Choose launcher</string>
+    <string name="choose_launcher_">Choose launcher where you want to customize icons</string>
+    <string name="google_launcher">Google Now Launcher</string>
+    <string name="nexus_launcher">Nexus Launcher</string>
+    <string name="pref_launcher">Select preferred launcher</string>
+    <string name="settings">Settings</string>
+    <string name="always_ask">Always ask</string>
+    <string name="selected_icon">Selected icon</string>
+
+</resources>

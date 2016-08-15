@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/pref_launcher"
+        android:entryValues="@array/pref_launcher_values"
+        android:key="pref_launcher"
+        android:summary="%s"
+        android:title="@string/pref_launcher"/>
+
+</PreferenceScreen>
