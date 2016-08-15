@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2016 dvdandroid
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Google Launchers Icon Changer</string>
+    <string name="always_ask">Chiedi sempre</string>
+    <string name="app_details">Dettagli dell\'app</string>
+    <string name="app_info">Info app</string>
+    <string name="app_info_">App creata da <a href="http://forum.xda-developers.com/member.php?u=5345056">dvdandroid</a>\n\nCodice sorgente è disponibile su <a href="https://github.com/dvdandroid/glic">Github</a></string>
+    <string name="app_not_found">%1$s non installato!</string>
+    <string name="apps_not_found">Nessuna applicazione installata!</string>
+    <string name="changes_made">Salvare le modifiche?</string>
+    <string name="changes_saved">Modifiche salvate</string>
+    <string name="choose_launcher">Scegli launcher</string>
+    <string name="choose_launcher_">Scegli il launcher dove vuoi personalizzare le icon</string>
+    <string name="components_names">Componente avvio app</string>
+    <string name="fast_picking">Selezione icone veloce</string>
+    <string name="google_launcher">Google Now Launcher</string>
+    <string name="icons_packs">Icon packs</string>
+    <string name="label">Nome</string>
+    <string name="last_updated">Ultimo aggiornamento</string>
+    <string name="launcher_icon">Icona del launcher</string>
+    <string name="launcher_not_installed">Nessun launcher compatibile installato!</string>
+    <string name="loading">Caricamento…</string>
+    <string name="loading_">Caricamento… %1$d/%2$d</string>
+    <string name="loading__">Caricamento… %1$s</string>
+    <string name="manage_app">Gestisci app</string>
+    <string name="nexus_launcher">Nexus Launcher</string>
+    <string name="no">No</string>
+    <string name="no_icon_pack_selected">Nessun icon pack selezionato!</string>
+    <string name="no_icons_pack">Nessun icon pack compatibile installato!</string>
+    <string name="original_icon">Icona originale</string>
+    <string name="package_name">Nome pacchetto</string>
+    <string name="pick_icon">Seleziona icona…</string>
+    <string name="pref_launcher">Seleziona launcher preferito</string>
+    <string name="result">Risultato</string>
+    <string name="result_">%1$d icone cambiate\n\n%2$d icone non cambiate</string>
+    <string name="save">Salva</string>
+    <string name="saving_changes">Salvataggio modifiche…</string>
+    <string name="select_icon_pack">Seleziona icon pack</string>
+    <string name="selected_icon">Icona selezionata</string>
+    <string name="selected_icon_pack">Icon pack selezionato: %1$s</string>
+    <string name="settings">Impostazioni</string>
+    <string name="suggested_icons">Icone suggerite</string>
+    <string name="version">Versione</string>
+    <string name="warning">Attenzione</string>
+    <string name="yes">Si</string>
+</resources>
